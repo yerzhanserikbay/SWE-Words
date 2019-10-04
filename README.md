@@ -1,7 +1,8 @@
 # SWE-Words-Database
 The Chinese-English SWE (Software Engineering) words database for foreign developers.
 
-[PART I](https://github.com/yerzhanserikbay/SWE-Words-Database/blob/master/Part%20I.md)
+[Part I](https://github.com/yerzhanserikbay/SWE-Words-Database/blob/master/Part%20I.md)
+[Part II](https://github.com/yerzhanserikbay/SWE-Words-Database/blob/master/Part%20II.md)
 
 ## Support
 
