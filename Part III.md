@@ -1,4 +1,4 @@
-# Part III
+# PART III
 
 1. grid |n.| 网格 wǎnggé
 2. heterogeneous |adj.| 异构的 yìgòu de 
