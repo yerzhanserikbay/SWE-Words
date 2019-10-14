@@ -15,6 +15,10 @@
 
 [Part VII](https://github.com/yerzhanserikbay/SWE-Words-Database/blob/master/Part%20VII.md)
 
+[Part VIII](https://github.com/yerzhanserikbay/SWE-Words-Database/blob/master/Part%20VIII.md)
+
+[Part IX](https://github.com/yerzhanserikbay/SWE-Words-Database/blob/master/Part%20IX.md)
+
 ## Support
 
 If you have a question, find a bug, or just want to say hi, please open an [issue on GitHub](https://github.com/yerzhanserikbay/yerzhanserikbay.github.io/issues/new) or give me feedback via email: yerzhan.serikbay@gmail.com
